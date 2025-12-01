@@ -166,26 +166,31 @@ You'll see QuakeGuard's colorful welcome screen
 
 _**SAMPLE OUTPUT**_
 
+STARTING...
+<img width="883" height="455" alt="image" src="https://github.com/user-attachments/assets/25395221-7c66-4f9e-8c3c-cd4511384132" />
 
-<img width="883" height="455" alt="image" src="https://github.com/user attachments/assets/023f8afa-0708-49c7-aeeb-40ba49ddd401" />
 
 FOR QUAKEGAURD: 
 
-<img width="991" height="415" alt="image" src="https://github.com/user-
-  attachments/assets/54aa9a37-e5cb-46c4-86f7-cbfb16d633fb" />
+<img width="991" height="415" alt="image" src="https://github.com/user-attachments/assets/8b3b5bb7-8a06-463c-8a4d-5c17915476f6" />
+
+
 
 FOR WAVER: 
 
 <img width="845" height="429" alt="image" src="https://github.com/user-attachments/assets/de9ec52b-e225-45e1-8604-568d8a9e9868" />
 
+
 FOR TEMPTERRA:
 
 <img width="955" height="441" alt="image" src="https://github.com/user-attachments/assets/8993e345-9110-4905-8b8f-32af64a2391a" />
+
 
 FOR ECOPULSE:
 
 <img width="1103" height="452" alt="image" src="https://github.com/user-attachments/assets/fa469366-a9f9-43c1-873a-501aa029a7ed" />
 
+EXITING...
 <img width="951" height="298" alt="image" src="https://github.com/user-attachments/assets/724d280f-2614-4f87-be8f-f1de6679fe03" />
 
 
